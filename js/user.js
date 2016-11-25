@@ -9,7 +9,7 @@ define(function (require) {
         template: template, //to be replace
         data: function () {
             return {
-                name: '用户管理'
+                name: 'user'
             };
         },
         methods: {
