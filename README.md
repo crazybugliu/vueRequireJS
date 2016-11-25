@@ -65,4 +65,4 @@ define(function(require) {
 
 
 
- ![screen](img\screen.png)
+ ![screen](img/screen.png)
