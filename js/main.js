@@ -2,6 +2,7 @@
  * Created by yancongliu on 2016/11/24.
  */
 define(function(require) {
+    // 获取vue component
     var home = require('home');
     var user = require('user');
 

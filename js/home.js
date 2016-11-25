@@ -3,9 +3,9 @@
  */
 
 define(function(require) {
-    var template = require('text!view/home.html');
+    var template = require('text!view/home.html');  //获取组件模板
     var v = Vue.extend({
-        template: template, //to be replace
+        template: template, 
         data: function () {
             return {
                 name: 'home'
@@ -19,4 +19,4 @@ define(function(require) {
     });
 
     return v;
-})
+});
